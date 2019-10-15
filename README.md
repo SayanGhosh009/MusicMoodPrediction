@@ -1,5 +1,5 @@
 Created by Sayan Ghosh
-Collaborated by Shubham Das, Manojit Chakraborty.
+
 # MusicMoodPrediction
  
 1. Dataset Preparation
